@@ -1,0 +1,23 @@
+{
+  "name": "samplereact",
+  "version": "1.0.0",
+  "description": "Hello World React",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdjunaid/reacthelloworld.git"
+  },
+  "keywords": [
+    "React",
+    "HelloWorld"
+  ],
+  "author": "mhdjunaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhdjunaid/reacthelloworld/issues"
+  },
+  "homepage": "https://github.com/mhdjunaid/reacthelloworld#readme"
+}
